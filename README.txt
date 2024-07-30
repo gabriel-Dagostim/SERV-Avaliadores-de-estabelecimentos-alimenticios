@@ -37,9 +37,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 ## Autor
 - Gabriel Dagostim
 
-## Outras Informações
-Este projeto é uma iniciativa de destaque para profissionais culinários. Se você é um avaliador gastronômico de destaque e gostaria de ser incluído, entre em contato conosco pelo email avaliadores@culinaria.com.
-
 ---
 
 **Observação:** As imagens utilizadas neste projeto são apenas ilustrativas e pertencem aos seus respectivos proprietários. Caso você seja o proprietário de uma das imagens e deseje que ela seja removida, por favor, entre em contato.
