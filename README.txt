@@ -10,15 +10,19 @@ Este projeto é uma plataforma dedicada a destacar avaliadores culinários renom
 
 ## Como Executar o Projeto
 1. Faça o download ou clone o repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador.
+    ```sh
+    git clone https://github.com/gabriel-Dagostim/SERV-Avaliadores-de-estabelecimentos-alimenticios.git
+    ```
+2. Navegue até o diretório do projeto.
+    ```sh
+    cd SERV-Avaliadores-de-estabelecimentos-alimenticios
+    ```
+3. Abra o arquivo `index.html` em seu navegador.
 
 ## Funcionalidades
 - **Avaliadores Destacados:** Apresenta informações detalhadas sobre avaliadores culinários.
 - **Layout Responsivo:** Garante uma experiência de usuário consistente em dispositivos de diferentes tamanhos.
 
-## Capturas de Tela
-- [Screenshot 1](link_para_screenshot_1)
-- [Screenshot 2](link_para_screenshot_2)
 
 ## Como Contribuir
 1. Faça um fork do projeto.
@@ -39,4 +43,3 @@ Este projeto é uma iniciativa de destaque para profissionais culinários. Se vo
 ---
 
 **Observação:** As imagens utilizadas neste projeto são apenas ilustrativas e pertencem aos seus respectivos proprietários. Caso você seja o proprietário de uma das imagens e deseje que ela seja removida, por favor, entre em contato.
-
